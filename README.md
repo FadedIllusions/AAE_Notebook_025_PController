@@ -48,3 +48,5 @@ We'd expect our vehicle to descend, increasing z.
 ![Proportional Controller](/images/p_control.png)
 
 Focusing on the Control block of the closed loop contoller, let's consider one of the most simple controllers, the P Controller (Proportional Control). (A Proportional Controller control strength is proportional to the error -- the larger the error, the more that the system has to do to correct that error.)
+
+![P Controller Code](/images/p_code.png)
